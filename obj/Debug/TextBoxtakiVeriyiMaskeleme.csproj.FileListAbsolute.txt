@@ -1,0 +1,10 @@
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\bin\Debug\TextBoxtakiVeriyiMaskeleme.exe.config
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\bin\Debug\TextBoxtakiVeriyiMaskeleme.exe
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\bin\Debug\TextBoxtakiVeriyiMaskeleme.pdb
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\obj\Debug\TextBoxtakiVeriyiMaskeleme.csproj.AssemblyReference.cache
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\obj\Debug\TextBoxtakiVeriyiMaskeleme.Form1.resources
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\obj\Debug\TextBoxtakiVeriyiMaskeleme.Properties.Resources.resources
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\obj\Debug\TextBoxtakiVeriyiMaskeleme.csproj.GenerateResource.cache
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\obj\Debug\TextBoxtakiVeriyiMaskeleme.csproj.CoreCompileInputs.cache
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\obj\Debug\TextBoxtakiVeriyiMaskeleme.exe
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\TextBoxtakiVeriyiMaskeleme\TextBoxtakiVeriyiMaskeleme\obj\Debug\TextBoxtakiVeriyiMaskeleme.pdb
