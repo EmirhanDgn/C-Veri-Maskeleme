@@ -14,10 +14,9 @@ Visual Studio 2022
 
 
 
-  ![tc maskele](https://user-images.githubusercontent.com/76941464/165316892-bbf79726-1f3f-4eb4-9add-66c314b8b2bf.png)
+![image](https://user-images.githubusercontent.com/76941464/177094414-57b90e49-ec48-422e-9a4c-32af893679cc.png)
 
-![tc maskele 2](https://user-images.githubusercontent.com/76941464/165316904-4b07dcfd-d7d0-47d2-89c2-c0b2946d8f3a.png)
-
+![image](https://user-images.githubusercontent.com/76941464/177094456-153bb988-1d96-47f9-b671-508891487153.png)
 
 <h2>Function Kodu</h2>
 
